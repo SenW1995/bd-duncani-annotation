@@ -1,0 +1,16 @@
+name: bd-annotation
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=3.11
+  - numpy=1.26
+  - pandas=2.2
+  - scipy=1.13
+  - matplotlib=3.8
+  - biopython=1.84
+  - pip
+  - pip:
+      # PyDESeq2 / framing helpers used by a subset of annotation scripts
+      - pydeseq2==0.4.10
