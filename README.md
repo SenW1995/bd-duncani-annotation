@@ -2,7 +2,7 @@
 
 Custom scripts for the transcript-defined annotation of the *Babesia duncani* WA1 genome (v3.10), reported in the Data Descriptor *"A transcript-defined annotation of the Babesia duncani genome with measured UTRs and a structure layer"*.
 
-This repository contains **code only**. Assemblies and annotations are deposited at GenBank; all data tables, structure models and derived files are at [Zenodo (DOI 10.5281/zenodo.24101801)](https://zenodo.org/records/24101801).
+This repository contains **code only**. Assemblies and annotations are deposited at GenBank; all data tables, structure models and derived files are at [Zenodo (DOI 10.5281/zenodo.24101800)](https://zenodo.org/records/24101801).
 
 ## What this repository covers
 
@@ -65,7 +65,7 @@ If you use this code, please cite the Data Descriptor (manuscript DOI to be adde
 
 > Wang S. *et al.* A transcript-defined annotation of the *Babesia duncani* genome with measured UTRs and a structure layer. (manuscript DOI pending).
 
-> Zenodo archive: <https://zenodo.org/records/24101801> (DOI 10.5281/zenodo.24101801), release v3.10.
+> Zenodo archive: <https://zenodo.org/records/24101801> (DOI 10.5281/zenodo.24101800), release v3.10.
 
 ## Licence
 

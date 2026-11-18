@@ -25,4 +25,4 @@ Versions used for the analyses reported in the Data Descriptor (as stated in the
 | Boltz-2 | 2.1 | protein structure prediction |
 | Foldseek | 9 | structure similarity search |
 
-Structure models are archived at [Zenodo](https://zenodo.org/records/24101801) (DOI 10.5281/zenodo.24101801).
+Structure models are archived at [Zenodo](https://zenodo.org/records/24101801) (DOI 10.5281/zenodo.24101800).
